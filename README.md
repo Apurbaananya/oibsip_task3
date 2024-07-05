@@ -31,3 +31,19 @@ Key Tasks:
 - Benefits: By completing this project, we'll gain valuable insights into machine learning, data analysis, and the automotive industry. We'll also have a functional car price prediction model that can be useful for future car pricing decisions.
 
 ## Results
+
+I have chosen the R² score as the primary evaluation metric for the Car Price Prediction model. After eliminating overfitted models with 100% MSE, R² score, and Adjusted R² score on the training set, as well as models with negative accuracy values, the final list is as follows:
+|Sl. no.| Regression Model         | R2 Train(%) | R2 Test(%) |
+| ----- | ------------------------ | ----------- | ---------- |
+|   1   | Linear Regression|       | 0.618375	   | 0.635721   |
+|   2   | Tuned Linear Regression  | 0.618375    | 0.635721   |
+|   3   | Lasso Regression         | -0.102212	 | -0.076025  |
+|   4   | Lasso Regression Tuned   | 0.612290    | 0.633115   |
+|   5   | Ridge Regression         | 0.617775    | 0.635095   |
+|   6   | Ridge Regression Tuned   | 0.586009    | 0.603682   |
+|   7   | Decision Tree            | 1.000000    | 0.817404   |
+|   8   | Decision Tree Tuned      | 0.756994    | 0.724694   |
+|   9   | Random Forest            | 0.756994    | 0.916997   |
+|  10   | Random Forest Tuned      | 0.758992    | 0.748617   |
+|  11   | XGB                      | 0.999983    | 0.924279   |
+|  12   | XGB Tuned                | 0.999983    | 0.924279   |
