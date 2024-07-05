@@ -35,7 +35,7 @@ Key Tasks:
 I have chosen the R2 score as the primary evaluation metric for the Car Price Prediction model. After eliminating overfitted models with 100% MSE, R2 score, and Adjusted R² score on the training set, as well as models with negative accuracy values, the final list is as follows:
 |Sl. no.| Regression Model         | R2 Train(%) | R2 Test(%) |
 | ----- | ------------------------ | ----------- | ---------- |
-|   1   | Linear Regression|       | 0.618375    | 0.635721   |
+|   1   | Linear Regression        | 0.618375    | 0.635721   |
 |   2   | Linear Regression Tuned  | 0.618375    | 0.635721   |
 |   3   | Lasso Regression         | -0.102212	 | -0.076025  |
 |   4   | Lasso Regression Tuned   | 0.612290    | 0.633115   |
