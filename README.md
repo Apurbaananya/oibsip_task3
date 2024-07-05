@@ -32,7 +32,7 @@ Key Tasks:
 
 ## Results
 
-I have chosen the R² score as the primary evaluation metric for the Car Price Prediction model. After eliminating overfitted models with 100% MSE, R² score, and Adjusted R² score on the training set, as well as models with negative accuracy values, the final list is as follows:
+I have chosen the R2 score as the primary evaluation metric for the Car Price Prediction model. After eliminating overfitted models with 100% MSE, R2 score, and Adjusted R² score on the training set, as well as models with negative accuracy values, the final list is as follows:
 |Sl. no.| Regression Model         | R2 Train(%) | R2 Test(%) |
 | ----- | ------------------------ | ----------- | ---------- |
 |   1   | Linear Regression|       | 0.618375	   | 0.635721   |
@@ -47,3 +47,5 @@ I have chosen the R² score as the primary evaluation metric for the Car Price P
 |  10   | Random Forest Tuned      | 0.758992    | 0.748617   |
 |  11   | XGB                      | 0.999983    | 0.924279   |
 |  12   | XGB Tuned                | 0.999983    | 0.924279   |
+
+## Conclusion
