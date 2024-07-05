@@ -22,10 +22,12 @@ Why Car Price Prediction? Car prices are influenced by numerous variables, inclu
 
 Key Tasks:
 
-Data Collection: Gather data on various car attributes and their corresponding prices.
-Data Preprocessing: Clean, transform, and prepare the data for modeling.
-Feature Engineering: Identify the most important features for price prediction.
-Model Building: Create a machine learning model capable of predicting car prices.
-Model Evaluation: Assess the model's accuracy and performance using appropriate metrics.
-Deployment: Make the trained model available for car price predictions.
-Benefits: By completing this project, we'll gain valuable insights into machine learning, data analysis, and the automotive industry. We'll also have a functional car price prediction model that can be useful for future car pricing decisions.
+- Data Collection: Gather data on various car attributes and their corresponding prices.
+- Data Preprocessing: Clean, transform, and prepare the data for modeling.
+- Feature Engineering: Identify the most important features for price prediction.
+- Model Building: Create a machine learning model capable of predicting car prices.
+- Model Evaluation: Assess the model's accuracy and performance using appropriate metrics.
+- Deployment: Make the trained model available for car price predictions.
+- Benefits: By completing this project, we'll gain valuable insights into machine learning, data analysis, and the automotive industry. We'll also have a functional car price prediction model that can be useful for future car pricing decisions.
+
+## Results
