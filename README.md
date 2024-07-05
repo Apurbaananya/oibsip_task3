@@ -13,3 +13,5 @@ Determining car prices in the automotive industry involves various factors such 
 - Explore the factors influencing car prices.
 - Develop a machine learning model to predict car prices.
 - Gain valuable experience in machine learning and automotive pricing.
+
+## Project Summary
