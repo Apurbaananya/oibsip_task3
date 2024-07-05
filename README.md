@@ -43,7 +43,7 @@ I have chosen the R2 score as the primary evaluation metric for the Car Price Pr
 |   6   | Ridge Regression Tuned   | 0.586009    | 0.603682   |
 |   7   | Decision Tree            | 1.000000    | 0.817404   |
 |   8   | Decision Tree Tuned      | 0.756994    | 0.724694   |
-|   9   | Random Forest            | 0.756994    | 0.916997   |
+|   9   | Random Forest            | 0.981447    | 0.916997   |
 |  10   | Random Forest Tuned      | 0.758992    | 0.748617   |
 |  11   | XGB                      | 0.999983    | 0.924279   |
 |  12   | XGB Tuned                | 0.999983    | 0.924279   |
@@ -68,6 +68,9 @@ This project delves into the complex dynamics of the automotive industry, using 
 
 Various machine learning models were evaluated, with the Random Forest model chosen for its robust performance in predicting car prices.
 
-The project utilized the R2 score as the primary evaluation metric, with the XGB model achieving impressive results: 99% training accuracy and 92% testing accuracy, solidifying its suitability for practical applications in the automotive market.
+The project utilized the R2 score as the primary evaluation metric, with the Random Forest model achieving impressive results: 98% training accuracy and 92% testing accuracy, solidifying its suitability for practical applications in the automotive market.
 
 These insights deepen our understanding of car pricing dynamics, combining exploratory data analysis with machine learning to enhance our data science skills significantly.
+
+
+## Reference
